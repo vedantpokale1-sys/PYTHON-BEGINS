@@ -14,9 +14,6 @@ elif operator == "/":
 else:
     print("invalid operator")
 
+print("this is my calculator")
+print("this is for only testing not fina;")
 
-
-# RE‑PUSH – 06/29/2026 20:01:59
-# RE‑PUSH – 06/29/2026 20:03:05
-# RE‑PUSH – 06/29/2026 20:04:05
-# FINAL PUSH – 06/29/2026 20:05:26
